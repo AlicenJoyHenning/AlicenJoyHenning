@@ -3,8 +3,8 @@
 <h3 align="center">I am a bioinformatics student-in-training from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.iview.abc.net.au/thumbs/i/zy/ZY7651A5591f803b575d9.16046414_1280.jpg">
 
-- 🔭 I’m currently working on **analysing single cell RNA sequencing data**
-
+I’m currently working through an **analysis of single cell RNA sequencing data**
+Open to, and in desparate need of, help from a kind soul with expertise of any kind : **alicen.jhb@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicenjoyhenning&show_icons=true&locale=en" alt="alicenjoyhenning" /></p>
 
