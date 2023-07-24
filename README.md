@@ -3,5 +3,5 @@
 <h3 align="center">I am a bioinformatics student-in-training from South Africa</h3>
 
 
-I’m currently working through an **analysis of single cell RNA sequencing data**
-Looking for help from kind souls with bioinformatics expertises of any kind.
+<align="center"> I’m currently working through an **analysis of single cell RNA sequencing data**
+<align="center"> Looking for help from kind souls with bioinformatics expertises of any kind.
