@@ -5,7 +5,3 @@
 
 I’m currently working through an **analysis of single cell RNA sequencing data**
 Open to, and in desparate need of, help from a kind soul with expertise of any kind : **alicen.jhb@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicenjoyhenning&show_icons=true&locale=en" alt="alicenjoyhenning" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicenjoyhenning&" alt="alicenjoyhenning" /></p>
