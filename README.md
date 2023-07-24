@@ -4,4 +4,4 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.iview.abc.net.au/thumbs/i/zy/ZY7651A5591f803b575d9.16046414_1280.jpg">
 
 I’m currently working through an **analysis of single cell RNA sequencing data**
-Open to, and in desparate need of, help from a kind soul with expertise of any kind (*alicen.jhb@gmail.com*) 
+Open to, and in desparate need of, help from kind souls with expertises of any kind.
