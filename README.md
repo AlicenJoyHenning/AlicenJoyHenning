@@ -5,6 +5,6 @@
 
   <p style="text-align: center;">
     I’m currently working through an <strong>analysis of single cell RNA sequencing data</strong>.
-    Alwyas open to help from kind souls with bioinformatics expertise of any kind.
+    Always open to help from kind souls with bioinformatics expertise of any kind.
   </p>
 </div>
