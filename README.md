@@ -4,7 +4,7 @@
   <h3 align="center">I am a bioinformatician-in-training from South Africa</h3>
 
   <p style="text-align: center;">
-    I’m currently working through an <strong>analysis of single cell RNA sequencing data</strong>
-    Looking for help from kind souls with bioinformatics expertise of any kind.
+    I’m currently working through an <strong>analysis of single cell RNA sequencing data</strong>.
+    Alwyas open to help from kind souls with bioinformatics expertise of any kind.
   </p>
 </div>
