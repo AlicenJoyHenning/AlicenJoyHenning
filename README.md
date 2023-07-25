@@ -3,8 +3,7 @@
   <h1 align="center">Welcome to Alicen's GitHub</h1>
   <h3 align="center">I am a bioinformatician-in-training from South Africa</h3>
 
-  <p style="text-align: center;">
-    I’m currently working through an <strong>analysis of single cell RNA sequencing data</strong>.
-    Always open to help from kind souls with bioinformatics expertise of any kind.
-  </p>
+<p align="center">
+  I’m currently working through an analysis of <strong>single cell RNA sequencing data</strong>
+</p>
 </div>
