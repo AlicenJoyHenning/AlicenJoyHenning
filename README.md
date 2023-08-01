@@ -4,6 +4,6 @@
   <h3 align="center">A South-African bioinformatician-in-training</h3>
 
 <p align="center">
- In the process of working through an analysis of <strong>single cell RNA sequencing data</strong>
+ In the process developing skills to perform an analysis of <strong>single cell RNA sequencing data</strong>
 </p>
 </div>
