@@ -9,4 +9,4 @@
 </p>
 </div>
 
-[![Alicen's GitHub stats](https://github-readme-stats.vercel.app/apiAlicenJoyHenning=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Alicen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlicenJoyHenning&theme=dark&show_icons=true&theme=transparent)
