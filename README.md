@@ -8,5 +8,3 @@
  In the process developing the skills necessary to perform an analysis of <strong>single cell RNA sequencing data</strong>
 </p>
 </div>
-
-![Alicen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlicenJoyHenning&theme=dark&show_icons=true&theme=transparent)
