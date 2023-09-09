@@ -5,6 +5,6 @@
 
 
 <p align="center">
- In the process developing the skills necessary to perform an analysis of <strong>single cell RNA sequencing data</strong>
+Honour's student developing the skills necessary to perform an analysis of <strong>single cell RNA sequencing data</strong>
 </p>
 </div>
