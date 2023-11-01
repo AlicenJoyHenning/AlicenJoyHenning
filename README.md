@@ -4,7 +4,7 @@
   <h3 align="center">ꜱᴏᴜᴛʜ ᴀꜰʀɪᴄᴀɴ ʙɪᴏɪɴꜰᴏʀᴍᴀᴛɪᴄɪᴀɴ-ɪɴ-ᴛʀᴀɪɴɪɴɢ</h3>
 
 <p align="center">
-Honour's student developing the skills necessary to perform an analysis of <strong>single cell RNA sequencing data</strong>
+Postgraduate student developing the skills necessary to perform an analysis of <strong>single cell RNA sequencing data</strong>
 </p>
 </div>
 
