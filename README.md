@@ -1,9 +1,14 @@
+<hr width="100%" size="2" align="center" >
 <div style="text-align: center;">
   <h1 align="center">Ａｌｉｃｅｎ＇ｓ   ＧｉｔＨｕｂ</newline></h1>
-  <h3 align="center"><i>Bioinformatician-in-training</i></h3>
-
+  <hr width="100%" size="2" align="center" >
+  <h2 align="center"><i>Bioinformatician-in-training</i></h3>
 <p align="center">
-Postgraduate student developing the skills necessary to perform an analysis of <strong>single cell RNA sequencing data</strong>
+  <strong>Mathematics and Applied Bioinformatics (BSc) <br>
+  Applied Bioinformatics (Hons) </br>
+  Bioinformatics and Computational Biology (MSc) <i>...in progress</i></strong> </br> 
+</br>
+  My interests involve investigating the interconnected mathematical and biological systems underlying life as we know it and making pretty colour palettes  
 </p>
 </div>
-
+<hr width="100%" size="2" align="center" >
