@@ -3,7 +3,7 @@
   <h1 align="center">Ａｌｉｃｅｎ＇ｓ   ＧｉｔＨｕｂ</newline></h1>
   <h2 align="center"><i>Bioinformatician-in-training</i></h3>
 <p align="center">
-  My interests involve investigating the interconnected mathematical and biological systems underlying life as we know it <br> and making pretty colour palettes
+  My interests involve investigating the interconnected mathematical and biological systems underlying life as we know it <br> & making pretty colour palettes
 </p>
 </div>
     <hr width="100%" size="2" align="center" >
