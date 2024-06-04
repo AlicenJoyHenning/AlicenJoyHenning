@@ -3,7 +3,7 @@
   <h1 align="center">Ｂｉｏｉｎｆｏｒｍａｔｉｃｉａｎ－ｉｎ－ｔｒａｉｎｉｎｇ</newline></h1>
 
 <div align="center">
-  <li>Postgraduate studying bioinformatics and computational biology</li>
+  <li>Postgraduate in bioinformatics and computational biology</li>
   <li>Experience with high-throughput NGS data analysis</li>
   <li>Interests include investigating the mathematical and biological systems underlying life as we know it & making pretty graphs</li>
 </div>
