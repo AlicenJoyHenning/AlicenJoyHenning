@@ -4,11 +4,36 @@
 <br>
 
 <p align="center">
-  <i>My name is Alicen and I love exploring biological data almost as much as I love making pretty plots</i> <br><br>
-  I'm currently in the Bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i> group whose <br>
+  <i>My name is Alicen and I love exploring biological data almost as much as I love making pretty plots</i>
+  <br><br>
+  I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i> group whose <br>
   primary focus is understanding the molecular and genetic basis for diseases– particularly tuberculosis.<br>
-  I mainly work with the following but would love to learn more!
-  </p>
+  I mainly work with the tools below but would love to learn more!
+</p>
+<br>
+<p align="center" style="display: flex; justify-content: center;">
+  <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
+    <b>Last Project</b>
+    <a href="https://github.com/AlicenJoyHenning/honours">
+      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/current_project.png" alt="Current Project" style="width: 25px; height: 20px; font-size: 15px" />
+    </a>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
+    <b>Research Group</b>
+    <a href="https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbhostgenetics/Pages/Lab_members.aspx">
+      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/place.png" alt="Favourite Tool" style="width: 25px; height: 20px; font-size: 15px" />
+    </a>
+  </span>
+  <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
+    <b>Favourite ATM</b>
+    <a href="https://github.com/nrennie/AlignAssign">
+      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/favourite.png" alt="Favourite Tool" style="width: 25px; height: 20px; font-size: 10px" />
+    </a>
+  </span>
+</p>
+
+
+<br>
   
 <p align="center">
     <a href="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
@@ -31,27 +56,4 @@
   </a>
 </p>
 
-<br>
-<br>
-
-<p align="center" style="display: flex; justify-content: center;">
-  <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
-    <b>Last Project</b>
-    <a href="https://github.com/AlicenJoyHenning/honours">
-      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/current_project.png" alt="Current Project" style="width: 25px; height: 20px; font-size: 15px" />
-    </a>
-  </span>
-  <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
-    <b>Research Group</b>
-    <a href="https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbhostgenetics/Pages/Lab_members.aspx">
-      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/place.png" alt="Favourite Tool" style="width: 25px; height: 20px; font-size: 15px" />
-    </a>
-  </span>
-  <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
-    <b>Favourite ATM</b>
-    <a href="https://github.com/nrennie/AlignAssign">
-      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/favourite.png" alt="Favourite Tool" style="width: 25px; height: 20px; font-size: 10px" />
-    </a>
-  </span>
-</p>
 <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/banner.jpg">
