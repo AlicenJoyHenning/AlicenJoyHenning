@@ -6,9 +6,9 @@
 <p align="center">
   <i>My name is Alicen and I love exploring biological data and making pretty plots</i>
   <br><br>
-  I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i> group whose <br>
-  primary focus is understanding the molecular and genetic basis for diseases– particularly tuberculosis.<br>
-  I mainly work with the tools below but would love to learn more!
+  I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i><br>
+  group whose primary focus is understanding the molecular and genetic basis for disease<br>
+  I mainly work with the tools below but am enjoying exploring more!
 </p>
 <br>
 <p align="center" style="display: flex; justify-content: center;">
