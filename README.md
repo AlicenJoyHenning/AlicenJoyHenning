@@ -37,19 +37,19 @@
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
     <b>Last Project</b>
     <a href="https://github.com/AlicenJoyHenning/honours">
-      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/current_project.png" alt="Current Project" style="width: 50px; height: 40px; font-size: 15px" />
+      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/current_project.png" alt="Current Project" style="width: 25px; height: 20px; font-size: 15px" />
     </a>
   </span>
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
     <b>Research Group</b>
     <a href="https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbhostgenetics/Pages/Lab_members.aspx">
-      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/place.png" alt="Favourite Tool" style="width: 50px; height: 40px; font-size: 15px" />
+      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/place.png" alt="Favourite Tool" style="width: 25px; height: 20px; font-size: 15px" />
     </a>
   </span>
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
     <b>Favourite ATM</b>
     <a href="https://github.com/nrennie/AlignAssign">
-      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/favourite.png" alt="Favourite Tool" style="width: 50px; height: 40px; font-size: 15px" />
+      <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/favourite.png" alt="Favourite Tool" style="width: 25px; height: 20px; font-size: 10px" />
     </a>
   </span>
 </p>
