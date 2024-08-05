@@ -7,10 +7,13 @@
   <i>My name is Alicen and I love exploring biological data almost as much as I love making pretty plots</i> <br><br>
   I'm currently in the Bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i> group whose <br>
   primary focus is understanding the molecular and genetic basis for diseases– particularly tuberculosis.<br>
-  I mainly work with the following languages but would love to learn more!
+  I mainly work with the following but would love to learn more!
   </p>
   
 <p align="center">
+    <a href="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
+    <img src="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="Linux Badge" />
+  </a>
   <a href="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8">
   <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8" alt="Markdown Badge" />
     </a>
@@ -26,8 +29,6 @@
     <a href="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
     <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="HTML Badge" />
   </a>
-  </a>
-
 </p>
 
 <br>
