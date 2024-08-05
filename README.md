@@ -5,7 +5,7 @@
 
 <p align="center">
   <i>My name is Alicen and I love exploring biological data almost as much as I love making pretty plots</i> <br><br>
-  I'm currently in the Bioinformatics department at <b>Stellenbosch University</b> where I am a member of the <i>TB Host Genetics</i> group whose <br>
+  I'm currently in the Bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i> group whose <br>
   primary focus is understanding the molecular and genetic basis for diseases– particularly tuberculosis.<br>
   I mainly work with the following languages but would love to learn more!
   </p>
