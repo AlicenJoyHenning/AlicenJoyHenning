@@ -11,8 +11,8 @@
   </p>
   
 <p align="center">
-  <a href="https://img.shields.io/badge/Code-Quarto-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8">
-  <img src="https://img.shields.io/badge/Code-Quarto-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8" alt="Quarto Badge" />
+  <a href="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8">
+  <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8" alt="Markdown Badge" />
     </a>
   <a href="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB">
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python Badge" />
