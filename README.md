@@ -53,3 +53,5 @@
     </a>
   </span>
 </p>
+<br>
+<img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/beach.jpg">
