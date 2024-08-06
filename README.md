@@ -7,8 +7,10 @@
   <i>My name is Alicen and I love exploring biological data and making pretty plots</i>
   <br><br>
   I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i><br>
-  group whose primary focus is understanding the molecular and genetic basis for disease<br>
-  I mainly work with the tools below but am enjoying exploring more!
+  group whose primary focus is understanding the molecular and genetic basis for disease<br><br>
+  I'm a beginner to all things <i>code</i> but am enjoying exploring the tools mentioned in the banner below. <br>
+  That's all from me, hope your code runs well today! 
+  
 </p>
 <br>
 <p align="center" style="display: flex; justify-content: center;">
