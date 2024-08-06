@@ -10,9 +10,10 @@
   group whose primary focus is understanding the molecular and genetic basis for disease<br><br>
   I'm a beginner to all things <i>code</i> but am enjoying exploring the tools mentioned in the banner below. <br>
   That's all from me, hope your code runs well today! 
+  <br><br><br><i>Some links to check out while you're here:</i>
+
   
 </p>
-<br>
 <p align="center" style="display: flex; justify-content: center;">
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
     <b>Last Project</b>
