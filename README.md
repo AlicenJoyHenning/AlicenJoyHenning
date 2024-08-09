@@ -59,4 +59,3 @@
   </a>
 </p>
 
-<img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/banner.jpg">
