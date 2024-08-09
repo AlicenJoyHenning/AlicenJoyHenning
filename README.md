@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <i>My name is Alicen and I love exploring biological data and making pretty plots</i>
+  <i>My name is Alicen and I love exploring biological data & making pretty plots</i>
   <br><br>
   I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i><br>
   group whose primary focus is understanding the molecular and genetic basis for disease<br><br>
