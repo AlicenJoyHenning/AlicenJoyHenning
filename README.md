@@ -59,3 +59,6 @@
   </a>
 </p>
 
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/AlicenJoyHenning/AlicenJoyHenning/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="AlicenJoyHenning" />
+</p>
