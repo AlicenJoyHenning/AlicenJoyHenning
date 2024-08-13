@@ -14,7 +14,7 @@
 <p align="center" style="display: flex; justify-content: center;">
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
     <b>Last Project</b>
-    <a href="https://github.com/AlicenJoyHenning/honours">
+    <a href="https://github.com/AlicenJoyHenning/limiric">
       <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/current_project.png" alt="Current Project" style="width: 25px; height: 20px; font-size: 15px" />
     </a>
   </span>
