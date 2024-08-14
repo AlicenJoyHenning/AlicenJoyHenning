@@ -5,12 +5,15 @@
 
 <p align="center">
   <i>My name is Alicen and I love exploring biological data & making pretty plots</i>
-  <br><br>
+  <br>
+  <br>
   I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i>
-  group whose primary focus is understanding the molecular and genetic basis for disease. I'm still very much a beginner to all things <i>code</i> and am focusing on learning the tools mentioned in the banner below. <br><br>
-  That's all from me, hope your code runs well today! 
-  <br><i>Some links to check out while you're here:</i>
+  group whose primary focus is understanding the molecular and genetic basis for disease. I'm still very much a beginner to all things <i>code</i> and am focusing on learning the tools   mentioned in the banner below. That's all from me, hope your code runs well today! 
+  <br>
+  <br>
+  <i>Some links to check out while you're here:</i>
 </p>
+
 <p align="center" style="display: flex; justify-content: center;">
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
     <b>Last Project</b>
@@ -34,6 +37,7 @@
 
 
 <br>
+
   
 <p align="center">
     <a href="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
@@ -55,6 +59,8 @@
     <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="HTML Badge" />
   </a>
 </p>
+
+
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/AlicenJoyHenning/AlicenJoyHenning/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="AlicenJoyHenning" />
