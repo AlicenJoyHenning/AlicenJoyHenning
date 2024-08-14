@@ -8,7 +8,7 @@
   <br>
   <br>
   I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i>
-  group whose primary focus is understanding the molecular and genetic basis for disease. I'm still very much a beginner to all things <i>code</i> and am focusing on learning the tools   mentioned in the banner below. That's all from me, hope your code runs well today! 
+  group whose primary focus is understanding the molecular and genetic basis for disease. I'm still very much a beginner to all things <i>code</i> but am focusing on learning the tools mentioned in the banner below. That's all from me, hope your code runs well today! 
   <br>
   <br>
   <i>Some links to check out while you're here:</i>
