@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <i>My name is Alicen and I love exploring biological data & making pretty plots</i>
+  <i>My name is Alicen and I love exploring biological data & making plots</i>
   <br>
   <br>
   I'm currently in the bioinformatics department at <b>Stellenbosch University</b> as a member of the <i>TB Host Genetics</i>
@@ -16,7 +16,7 @@
 
 <p align="center" style="display: flex; justify-content: center;">
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
-    <b>Last Project</b>
+    <b>Lastest Project</b>
     <a href="https://github.com/AlicenJoyHenning/limiric">
       <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/current_project.png" alt="Current Project" style="width: 25px; height: 20px; font-size: 15px" />
     </a>
