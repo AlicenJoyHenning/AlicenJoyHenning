@@ -4,7 +4,7 @@
 
 <p align="center">
   My name is Alicen and I love exploring biological data & making plots <br>
-  I'm still very much a beginner to all things <i>code</i> but am enjoying exploring the tools shown in the stickers below <br>
+  Still very much a beginner to all things <i>code</i> but am enjoying exploring the tools shown in the stickers below <br>
   That's all from me, hope your code runs well today! 
   <br>
   <br>
