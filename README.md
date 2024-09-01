@@ -34,24 +34,27 @@
 
 <br>
 
-  
 <p align="center">
-    <a href="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
+  <a href="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
     <img src="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="Linux Badge" />
   </a>
   <a href="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8">
-  <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8" alt="Markdown Badge" />
-    </a>
+    <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=quarto&logoColor=white&color=6C3EA8" alt="Markdown Badge" />
+  </a>
   <a href="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB">
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python Badge" />
   </a>
-    <a href="https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25">
+  <a href="https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25">
     <img src="https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25" alt="Bash Badge" />
-    </a>
-  <a href="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=3776AB">
-    <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=3776AB" alt="R Badge" />
   </a>
-    <a href="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
+  <a href="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3">
+    <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3" alt="R Badge" />
+  </a>
+  <a href="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
+    <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="HTML Badge" />
+  </a>
+</p>
+  <a href="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
     <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="HTML Badge" />
   </a>
 </p>
