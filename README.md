@@ -50,4 +50,7 @@
   <a href="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3">
     <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3" alt="R Badge" />
   </a>
-
+  <a href="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
+    <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26" alt="HTML Badge" />
+  </a>
+</p>
