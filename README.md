@@ -1,12 +1,12 @@
 <p align="center">
-  <b><i style="font-size: 100px;">Hi, there!</i></b>
+  <br><br>
+  <b><i style="font-size: 100px;">Hope your code runs well today!</i></b>
+  <b></b>
 </p>
 
+<br><br>
+
 <p align="center">
-  My name is Alicen and I love exploring biological data & making plots <br>
-  Still very much a beginner to all things <i>code</i> but I'm enjoying exploring the tools shown in the stickers below. That's all from me, hope your code runs well today! 
-  <br>
-  <br>
   <i>Some links to check out while you're here:</i>
 </p>
 
@@ -31,7 +31,6 @@
   </span>
 </p>
 
-<br>
 
 <p align="center">
   <a href="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
