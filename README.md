@@ -7,7 +7,7 @@
 <br><br>
 
 <p align="center">
-  <i>Some links to check out while you're here:</i>
+  <i>Some links to explore while you're here:</i>
 </p>
 
 <p align="center" style="display: flex; justify-content: center;">
