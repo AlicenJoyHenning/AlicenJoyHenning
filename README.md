@@ -18,7 +18,7 @@
     </a>
   </span>
   <span style="display: flex; flex-direction: column; align-items: center; margin: 1 100px;">
-    <b>My Research Group</b>
+    <b>Research Group</b>
     <a href="https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbhostgenetics/Pages/Lab_members.aspx">
       <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/place.png" alt="Favourite Tool" style="width: 25px; height: 20px; font-size: 15px" />
     </a>
