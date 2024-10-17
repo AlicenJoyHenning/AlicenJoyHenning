@@ -1,9 +1,13 @@
+<!-- Add your GIF here -->
+<p align="center">
+  <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/picmix.com_1508280.gif" alt="Hope your code runs well!" style="width:400px;"/>
+</p>
+
 <p align="center">
   <br><br>
   <b><i style="font-size: 100px;">Hope your code runs well today!</i></b>
   <b></b>
 </p>
-
 
 <p align="center">
   <i>Some links to explore while you're here:</i>
