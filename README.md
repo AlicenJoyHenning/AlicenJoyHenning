@@ -4,7 +4,6 @@
   <b></b>
 </p>
 
-<br><br>
 
 <p align="center">
   <i>Some links to explore while you're here:</i>
