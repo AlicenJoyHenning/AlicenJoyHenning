@@ -1,7 +1,3 @@
-<!-- Add your GIF here -->
-<p align="center">
-  <img src="https://github.com/AlicenJoyHenning/AlicenJoyHenning/blob/main/images/picmix.com_1508280.gif" alt="Hope your code runs well!" style="width:400px;"/>
-</p>
 
 <p align="center">
   <br><br>
