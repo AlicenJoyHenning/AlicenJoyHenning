@@ -1,7 +1,7 @@
 
   <h2 align="center">Bioinformatician-in-training</h3>
 <p align="center">
-  My interests involve investigating the interconnected mathematical and <br> biological systems of life and making plots <br><I>...mostly making plots...</i>
+  Interested in investigating the interconnected mathematical and <br> biological systems of life and making plots <br><I>(but mainly making plots)</i>
 </p>
 </div>
 
